@@ -1,3 +1,3 @@
-愛知県
+愛知ken
 TryGitHubOsakana
 ================
