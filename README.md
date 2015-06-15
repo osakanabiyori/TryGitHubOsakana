@@ -8,5 +8,6 @@ TryGitHubOsakana
 Objective-C
 
 
+コガコーラ
 
 チョコレート
