@@ -1,4 +1,4 @@
-愛知ken
+﻿愛知ken
 STAR WARS
 TryGitHubOsakana
 ================
@@ -13,3 +13,5 @@ Objective-C
 チョコレート
 
 すき焼き
+
+丸亀製麺
