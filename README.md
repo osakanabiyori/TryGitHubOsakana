@@ -1,4 +1,4 @@
-愛知ken
+﻿愛知ken
 STAR WARS
 TryGitHubOsakana
 ================
@@ -14,4 +14,8 @@ Objective-C
 
 すき焼き
 
+<<<<<<< HEAD
 マクロス
+=======
+丸亀製麺
+>>>>>>> 0cb65a46f59a394651d8cc40c92bdbeb25873b61
