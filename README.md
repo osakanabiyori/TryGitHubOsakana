@@ -1,9 +1,14 @@
 # TryGitHubOsakana
 ## はじめに
-※この辺は既に読んでいる前提
-- [サルでもわかる Git入門 〜バージョン管理を使いこなそう〜](https://backlog.com/ja/git-tutorial/)
-- [今日からはじめるGitHub 〜 初心者がGitをインストールして、プルリクできるようになるまでを解説](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)
-  - [自分用 Git For Windowsのインストール手順](https://qiita.com/toshi-click/items/dcf3dd48fdc74c91b409)
+※取り敢えずこれやって，GitHubに関する基本的な操作を覚えましょう
+- [今日からはじめるGitHub 〜 初心者がGitをインストールして、プルリクできるようになるまでを解説](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)（これやれば「やってほしいこと」の内容は出来るはず）
+  - [自分用 Git For Windowsのインストール手順](https://qiita.com/toshi-click/items/dcf3dd48fdc74c91b409)（環境構築の参考に，Macは純正Terminalか**iTerm2**で良いです）
+
+※↑の各所に出てくるGitコマンドの詳細が知りたかったり，忘れたりした時は↓をどうぞ
+- [サルでもわかる Git入門 〜バージョン管理を使いこなそう〜](https://backlog.com/ja/git-tutorial/)（割ととっつきやすい）
+- [Git](https://git-scm.com)（ガチなやつ，以下一部紹介）
+  - [Reference](https://git-scm.com/docs)（コマンドの全てが書かれている，全部読んでも良いけど膨大な時間がかかるので，分かんない時に頼る位で良いと思う）
+  - [Book](https://git-scm.com/book/ja/v2)（概念から基本，応用まで色々書いてある，日本語なので読みやすいしためになるので時間あれば是非）
 
 ## やってほしいこと
 - 自分のローカルに，このリポジトリを`clone`する
