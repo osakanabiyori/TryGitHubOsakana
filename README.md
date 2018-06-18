@@ -23,11 +23,11 @@
 3 [自分の名前]
 ```
 例：「**佐藤太郎**」が，「**hogehoge.txt**」を作った場合  
-  ```
-  add hogehoge.txt
+```
+add hogehoge.txt
 
-  佐藤 太郎
-  ```
+佐藤 太郎
+```
 6. リモートに`push`する
 7. 自分が`push`したブランチに対し，自分の名前（ローマ字）をタイトルにした`Pull request`を立てる  
 例：「**佐藤太郎（TaroSato）**」の場合，`Pull request`のタイトルは「**TaroSato**」
